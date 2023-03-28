@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+
+미니 프로젝트(mini-blog) >> 더미데이터를 이용하여 글목록, 댓글 목록, 글내용 부분 구성
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
